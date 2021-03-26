@@ -1,4 +1,21 @@
+body {
+color: #454545;
+font-family: "Lucida Sans", Verdana,Arial, "sans-serif";
+font-size: .9em;
+font-weight: normal;
+}
+
 h1 {
 text-shadow: 5px 5px 10px #990714;
-
 }
+
+h2 {
+text-shadow: 5px -5px 10px green;
+}
+
+a {
+text-decoration: none;
+font-weight: bold;
+color: aqua;
+}
+
