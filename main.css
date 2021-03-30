@@ -19,7 +19,6 @@ a {
 text-decoration:underline;
 font-weight: bold;
 color: #990714;
-display: block;
 }
 
 p {
@@ -28,5 +27,5 @@ padding: 0em 2em;
 
 i {
 display: inline-block;
-box-shadow: 2px 2px 2px #990714;
+box-shadow: 2px 2px 5px #990714, -2px -2px 5px #990714;
 }
