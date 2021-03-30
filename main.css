@@ -24,3 +24,7 @@ color: #990714;
 p {
 padding: 0em 2em;
 }
+
+i {
+display: inline-block;
+}
