@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
 color: #454545;
 font-family: "Lucida Sans", Verdana, Arial, "sans-serif";
@@ -44,4 +45,47 @@ color: green;
 font-style: italic;
 font-size: .5em;
 line-height: 10em;
+=======
+body {
+color: #454545;
+font-family: "Lucida Sans", Verdana, Arial, "sans-serif";
+font-size: .9em;
+font-weight: normal;
+line-height: 1.4em;
+}
+
+h1 {
+text-shadow: 5px 5px 10px #990714;
+padding-top: 10px;
+padding-bottom: 20px;
+border: 2px dashed;
+}
+
+h2 h3 {
+color: #787878;
+}
+
+a {
+text-decoration:underline;
+font-weight: bold;
+color: #990714;
+}
+
+p {
+padding: 0em 2em;
+background-color: azure;
+}
+
+i {
+display: inline-block;
+box-shadow: 2px 2px 5px #990714, -2px -2px 5px #990714;
+}
+
+ul::after {
+content: "That's all!";
+color: green;
+font-style: italic;
+font-size: .5em;
+line-height: 10em;
+>>>>>>> 4f80575acfcfa44f345681d6324ebbf9b9816344
 }
