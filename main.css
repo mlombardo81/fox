@@ -11,6 +11,11 @@ text-shadow: 5px 5px 10px #990714;
 padding-top: 10px;
 padding-bottom: 20px;
 border: 2px dashed;
+background: #964230; /* Old browsers */
+background: -moz-linear-gradient(top, #964230 0%, #cc6868 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #964230 0%,#cc6868 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #964230 0%,#cc6868 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#964230', endColorstr='#cc6868',GradientType=0 ); /* IE6-9 *
 }
 
 h2 h3 {
